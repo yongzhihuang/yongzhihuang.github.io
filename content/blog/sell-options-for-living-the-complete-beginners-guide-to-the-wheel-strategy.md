@@ -7,7 +7,6 @@ date: 2021-03-20
 
 **Instead of playing at the casino, become one.**
 
-
 Let's start with the an introduction, I’m the creator of [TradeIV](https://tradeiv.com), a trading assistance app for traders that runs in your browser. I've been trading stocks/options/crypto for about six years. Like most traders, I’ve dabbled with multiple trading strategies throughout the years: day trading (multiple time frames), swing trading, gambling with 0 DTE options, and I was quite frustrated with the suboptimal outcome of each strategy. It was early last year when I discovered the wheel strategy with options, and I'm happy to say that I’ve achieved around 80 to 90% win rate since I started this strategy. So in this article I would like to give back to the community by sharing with you what I learned and discuss the strategies that I've been using to have this level of success.
 
 ## Basics of Options
@@ -52,9 +51,7 @@ I hope you see the beauty of this strategy because you are making money every st
 
 High risk high reward could not be any more true when it comes to the wheel strategy. It's **extremely important** to pick stocks that are within your risk tolerance level. In the above example, **$FSLY** It's a relatively high-growth company with a high **beta**, Beta is a value assigned to a stock that describes how volatile the stock can move compared to the S&P, the higher the beta the more volatile the stock. When stocks have high volatility the premiums you get on your options will be higher. If you think about it, from the perspective of an insurance business, if you are a bad driver and wrecked your car a few times, then the insurance company may charge you more every month compared to a good driver. So it's really important for you to experiment and find stocks with relatively safe betas.
 
-Here's how I select my stocks: I use TradeIV to help me find, watch, and do due diligence on stocks.
-
-{% youtube url="https://www.youtube-nocookie.com/embed/PSZlTUH8nME" label="TradeIV App Demo" /%}
+Here's how I select my stocks
 
 1. I like to find stocks that are trading near their previous support. The only timeframe I look at for stocks are the daily chart. Ideally, I want to see the stock that are beaten down due to no news (due to market wide down turn), and the price of the stock is trading near their previous support level.
 
@@ -66,7 +63,7 @@ Here's how I select my stocks: I use TradeIV to help me find, watch, and do due 
 
 4. The stock must be a company that I don't mind holding a hundred shares with for a long time. The company needs to be a good company with actual products and services, have good EPS, and what’s even better is they have positive cash flow and profitable. You only want to sell options of profitable companies rather than meme stocks. Now I do make exceptions for this rule on companies that I know well, for example Fastly ($FSLY). Companies that you are bullish for the long-term.
 
-5. My last requirement is my option’s expiration date is never longer than two weeks, and my Delta is always less than
+5. My last requirement is my option’s expiration date is never longer than two weeks, and my Delta is always .20 or below
 
 ## A brief guide on Options Greeks
 
