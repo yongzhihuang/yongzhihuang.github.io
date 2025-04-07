@@ -5,6 +5,8 @@ description: String beans with Oyster Sauce
 date: 2025-04-05
 ---
 
+![String beans with Oyster Sauce](/images/recipes/string-beans-with-oyster-sauce.png)
+
 ### Ingredients
 
 - String beans
